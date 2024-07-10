@@ -226,13 +226,19 @@
 .support {
     background-image: url("../assets/handshake.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     display: block;
     width: 1100px;
     height: 300px;
     border-radius: 10px;
     object-fit: contain;
     margin: 50px auto;
+    
 }
+
+
+
 
 .need-support {
     color: rgb(255, 255, 255);
