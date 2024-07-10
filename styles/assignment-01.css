@@ -237,7 +237,28 @@
     
 }
 
+.next-targets {
+    width: 1100px;
+    margin: 50px auto;
+}
 
+.next-target-title {
+    color: rgb(13, 19, 33);
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.next-target-desc{
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
 
 
 .need-support {
@@ -300,4 +321,23 @@
     line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
+}
+
+.targets {
+    padding-top: 50px;
+}
+
+.next-target-details {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px, solid gray;
+    gap: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    margin-bottom: 15px;
+
 }
