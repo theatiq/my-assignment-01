@@ -66,8 +66,8 @@
 
 .header-h1 {
     text-align: center;
-    font-size: 48px;
-    font-weight: 800;
+    font-size: 42px;
+    font-weight: 700;
 }
 
 .header-content {
@@ -160,7 +160,7 @@
 
 .main-section-1 {
     width: 800px;
-    height: 900px;
+    height: 950px;
     margin: 0 auto;
     padding-top: 40px;
 }
